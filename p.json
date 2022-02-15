@@ -1,0 +1,22 @@
+{
+     "user": [
+          {
+               "username": "asf",
+               "password": "as@12",
+               "profile": {
+                    "Description": "",
+                    "Hobbies": "dsgf",
+                    "Gender": "gf"
+               }
+          },
+          {
+               "username": "adS",
+               "password": "SZ12@",
+               "profile": {
+                    "Description": "HEDTH",
+                    "Hobbies": "GNJFH",
+                    "Gender": "DSFSD"
+               }
+          }
+     ]
+}
